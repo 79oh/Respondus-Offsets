@@ -136,5 +136,5 @@ The hook module (`LockDownBrowser.dll`) in 2.1.6.0.2 uses 5 WH_KEYBOARD_LL proce
 ## Credits
 
 * **GitHub:** [.79oh](https://github.com/79oh)
-* **Discord:** [Add me for contact.](.79oh)
+* **Discord:** (My user is .79oh)
 
